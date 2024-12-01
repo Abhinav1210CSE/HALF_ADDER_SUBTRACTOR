@@ -75,8 +75,9 @@ module exp3halfadder(a,b,sum,carry);
 
 
 **Output/TIMING Waveform**
+![WhatsApp Image 2024-12-01 at 9 50 54 PM (1)](https://github.com/user-attachments/assets/1c94b6af-69fe-4a5e-9bbc-bb8557ab95d2)
 ![WhatsApp Image 2024-12-01 at 9 50 53 PM (1)](https://github.com/user-attachments/assets/9bc5eb95-0779-4b27-9a1c-6708372dad0f)
-![WhatsApp Image 2024-12-01 at 9 50 53 PM (1)](https://github.com/user-attachments/assets/a388c67f-b946-4136-8383-4e47deee1352)
+
 
 
 
